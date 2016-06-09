@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>GIS Link Editor</shortname>
+    <description>GIS Link Editor</description>
+    <family>dashlet</family>
+    <url>/dashlet/GISLink</url>
+</webscript>

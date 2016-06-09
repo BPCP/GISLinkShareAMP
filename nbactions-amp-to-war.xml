@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-ApplyWebscripts</actionName>
+            <displayName>ApplyWebscripts</displayName>
+            <goals>
+                <goal>org.apache.maven.plugins:maven-resources-plugin:2.7:resources</goal>
+                <goal>org.alfresco.maven.plugin:alfresco-maven-plugin:2.2.0:refresh-share</goal>
+            </goals>
+        </action>
+    </actions>
